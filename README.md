@@ -21,8 +21,7 @@ This will generate the JS file and pack everything in an uberjar for you.
 
 ## License
 
-Copyright © 2021 <FIXME>
+Copyright © 2023 Maurício Szabo
 
 This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
+terms of the MIT License - No Attribution, also known as MIT-0.
